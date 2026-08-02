@@ -57,3 +57,8 @@ src/com/gradecalculator/
 │
 └── util/
     └── Theme.java                  # Centralized UI styling (Colors, Fonts, Borders)
+
+```
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/096533a9-c490-4ecc-8727-4b4f3b4380da" />
+
